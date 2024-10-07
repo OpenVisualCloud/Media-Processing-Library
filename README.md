@@ -1,3 +1,9 @@
+# DISCONTINUATION OF PROJECT #  
+This project will no longer be maintained by Intel.  
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.  
+Intel no longer accepts patches to this project.  
+ If you have an ongoing need to use this project, are interested in independently developing it, or would like to maintain patches for the open source software community, please create your own fork of this project.  
+  
 # Intel Media Processing Function Library
 ## 1.Overview
 Intel® Media Processing Library(IMPL) optimized media processing functions based on Intel platforms, the media processing functions include Color Space Conversion(CSC), resize, composition, Alpha blending and so on. IMPL is a oneAPI DPC++ based software library designed for providing optimized video processing filters using Intel CPU/GPU/FPGA-accelerator, DPC++ APIs are based on familiar standards-C++ STL, Parallel STL (PSTL), Boost.Compute, and SYCL*, more details about DPC++ please refer to [DPC++](https://www.intel.com/content/www/us/en/developer/tools/oneapi/dpc-library.html?wapkw=dpc%2B%2B#gs.zjkgc3).
